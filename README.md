@@ -2,7 +2,8 @@
 
 > An end-to-end data analysis project on 1,50,000 ride booking records — from raw data exploration to an interactive Power BI dashboard.
 
-<img width="1150" height="648" alt="Dashboard image" src="https://github.com/user-attachments/assets/0aa20875-2893-4d6c-873a-4ac16a4d03be" />
+<img width="1150" height="648" alt="Dashboard image" src="https://github.com/user-attachments/assets/de99e0ab-dbfb-4612-b19d-c0d1e07ca292" />
+
 
 
 ---
