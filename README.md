@@ -89,5 +89,5 @@ ride-booking-analytics/
 
 ## 👤 Author
 
-**Nadir Khan** — Data Analyst & Data Scientist  
+**Nadir Khan** — Data Analyst  
 🔗 [LinkedIn](https://linkedin.com/in/nadirkhan-dataanalyst) | 💻 [GitHub](https://github.com/NADIR789259)
